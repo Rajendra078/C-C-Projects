@@ -1,2 +1,2 @@
-# C-C-Projects
+# C-C++-Projects
  This will contain projects of C/C++
